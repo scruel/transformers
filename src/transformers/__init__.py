@@ -4632,7 +4632,7 @@ else:
         ]
     )
     _import_structure["models.beit"].extend(
-        [
+        [dsda
             "FlaxBeitForImageClassification",
             "FlaxBeitForMaskedImageModeling",
             "FlaxBeitModel",
