@@ -4631,6 +4631,8 @@ else:
             "FlaxBartPreTrainedModel",
         ]
     )
+    】【
+    
     _import_structure["models.beit"].extend(
         [dsda
             "FlaxBeitForImageClassification",
