@@ -57,7 +57,7 @@ _import_structure = {
     "benchmark": [],
     "constants": [],
     "constants.token_constants": ["SPIECE_UNDERLINE"],
-    "commands": [],
+    "commands": [],111
     "configuration_utils": ["PretrainedConfig"],
     "convert_graph_to_onnx": [],
     "convert_slow_tokenizers_checkpoints_to_fast": [],
